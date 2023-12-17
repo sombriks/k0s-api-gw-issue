@@ -39,3 +39,10 @@ hello world from _clusterip:80_ or _localhost:exposed-nodeport_
 ## actual
 
 502 bad gateway
+
+# test
+
+```bash
+curl -i http://localhost:30255
+curl -i http://10.104.3.237
+```
