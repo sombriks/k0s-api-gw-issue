@@ -85,7 +85,9 @@ hello world from _clusterip:80_ or _localhost:exposed-nodeport_
 
 ## actual
 
-502 bad gateway
+502 bad gateway for k0s
+
+connection resets with kind
 
 ## test
 
